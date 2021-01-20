@@ -3,8 +3,10 @@
 # Hi, I'm Mina 👋🏼💻
 I am a Software Engineer and Full Stack Web Developer. I enjoy Competitive Programming, CTF Games, and building innovative, functional, and supportive applications using in-demand technologies. Always looking to contribute to open-source projects and to better my coding skills.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=minahabibm&show_icons=true&&theme=react" />
-<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minahabibm&layout=compact&langs_count=10&theme=react"/>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=minahabibm&show_icons=true&&theme=react" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minahabibm&layout=compact&langs_count=10&theme=react"/>
+</p>
 
 
 ## Connect With Me
