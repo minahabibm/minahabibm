@@ -1,10 +1,11 @@
-# Hi, I'm Mina 👋🏼💻
-
 <img src="https://user-images.githubusercontent.com/38506259/103246784-b17ec600-4932-11eb-94cb-053b1b2e4597.gif" alt="banner" width=100%>
 
+# Hi, I'm Mina 👋🏼💻
 I am a Software Engineer and Full Stack Web Developer. I enjoy Competitive Programming, CTF Games, and building innovative, functional, and supportive applications using in-demand technologies. Always looking to contribute to open-source projects and to better my coding skills.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=minahabibm&show_icons=true&&theme=react" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=minahabibm&show_icons=true&&theme=react" />
+<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minahabibm&layout=compact&langs_count=10&theme=react"/>
+
 
 ## Connect With Me
 [<img src="https://user-images.githubusercontent.com/38506259/103250184-a6329700-4940-11eb-8b72-83a57e4bf8e3.png" alt="Linkedin Logo" width=5%>](https://www.linkedin.com/in/minahabibm/)
