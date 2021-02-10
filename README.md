@@ -1,6 +1,6 @@
 # Hi, I'm Mina 👋🏼💻
 <img src="https://user-images.githubusercontent.com/38506259/103246784-b17ec600-4932-11eb-94cb-053b1b2e4597.gif" alt="banner" width=100%>
-I am a Software Engineer and Full Stack Web Developer. I enjoy Competitive Programming, CTF Games, and building innovative, functional, and supportive applications using in-demand technologies. Always looking to contribute to open-source projects and to better my coding skills.
+I am a Software Engineer and Full Stack Web Developer. I enjoy Competitive Programming, CTF Games, and building innovative, scalable, functional, and supportive applications using in-demand technologies. Always looking to contribute to open-source projects and to better my coding skills.
 
 - 👨‍💻 I’m currently working on Data Structures & Algorithms and something Cool.
 - 🌱 I’m currently learning GraphQl, Data Science and Machine Learning.
