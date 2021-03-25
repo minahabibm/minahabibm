@@ -3,7 +3,7 @@
 I am a Software Engineer and Full Stack Web Developer. I enjoy Competitive Programming, CTF Games, and building innovative, scalable, functional, and supportive applications using in-demand technologies. Always looking to contribute to open-source projects and to better my coding skills.
 
 - 👨‍💻 I’m currently working on Data Structures & Algorithms and something Cool.
-- 🌱 I’m currently learning GraphQl, Data Science and Machine Learning.
+- 🌱 I’m currently learning TypeScript, GraphQl, Data Science and Machine Learning.
 
 <p align="left">
     <img  src="https://komarev.com/ghpvc/?username=minahabibm&label=PROFILE+VIEWS" />
